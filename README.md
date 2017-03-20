@@ -60,8 +60,6 @@ You can specify the jenkins plugins that you want to install. By default empty a
 Example Playbook
 ----------------
 
-Including an example of how to use your role (for instance, with variables passed in as parameters) is always nice for users too:
-
     - hosts: servers
       vars:
         jenkins_repo_url: http://pkg.jenkins-ci.org/redhat/jenkins.repo
