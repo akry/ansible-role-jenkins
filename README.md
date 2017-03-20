@@ -1,5 +1,5 @@
 
-[200~ansible-role-jenkins
+ansible-role-jenkins
 =========
 
 An ansible role to install jenkins. You can install and configure specified version of jenkins as well as install jenkins plugins.
